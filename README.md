@@ -1,4 +1,4 @@
-# Welcome to Remix Admin Template!
+# Welcome to magaidamad nig LTD!
 
 **View demo:** [https://remix-admin-template.netlify.app/](https://remix-admin-template.netlify.app/)
 
